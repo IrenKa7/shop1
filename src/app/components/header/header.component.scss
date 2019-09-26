@@ -1,0 +1,18 @@
+.search-bar{
+    width: 434px;
+    height: 31px;
+    outline: 1px solid #e1e1e1;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+
+}
+.search-bar input{
+    border: none;
+    width: 88%;
+    height: 31px;
+}
+.search-bar img{
+    width: 11%;
+    height: 31px;
+}
